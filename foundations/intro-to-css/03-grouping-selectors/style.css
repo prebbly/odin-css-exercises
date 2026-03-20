@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+.click,
+.orange {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+.orange {
+    background-color: yellow;
+    color: black;
+}
